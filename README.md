@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajneesh069
 - 👀 I’m interested in Web development
-- 🌱 I have learned C and C++ language and now learning DSA.
+- 🌱 I have learned C and C++ language and now learning Web Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me out on insta @rajneeshmishra1609, linkedin @rajneesh69, twitter @rajneesh6386.
