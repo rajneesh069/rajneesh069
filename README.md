@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @rajneesh069
 - 👀 I’m interested in Web development
 - 🌱 I have learned C, C++, Java, JavaScript and TypeScript language and currently learning Web Development, DevOps, a lil bit of Rust and a whole lot of Data Structures and algorithms.
-- 📫 Reach me out on insta @rajneeshmishra1609, linkedin @rajneesh69, twitter @rajneesh6386.
+- 📫 Reach me out on linkedin @rajneesh69, twitter @rajneesh6386.
